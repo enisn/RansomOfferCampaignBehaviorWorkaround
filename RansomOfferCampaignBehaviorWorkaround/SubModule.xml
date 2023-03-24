@@ -1,11 +1,11 @@
 <Module>
   <Name value="RansomOfferCampaignBehaviorWorkaround"/>
   <Id value="RansomOfferCampaignBehaviorWorkaround"/>
-  <Version value="v1.0.1"/>
+  <Version value="v1.0.2"/>
   <SingleplayerModule value="true"/>
   <MultiplayerModule value="false"/>
   <DependedModules>
-    <DependedModule Id="Harmony"/>
+    <DependedModule Id="Bannerlord.Harmony"/>
     <DependedModule Id="Native"/>
     <DependedModule Id="SandBoxCore"/>
     <DependedModule Id="Sandbox"/>
